@@ -12,7 +12,7 @@ One image summing up Wednesday 25 November 2026's world news, as a newspaper fro
 python3 main.py
 ```
 
-Writes the front page to `/output/entry.png` (1024×1024, 709,200 bytes).
+Writes the front page to `/output/entry.png` (1024×1024, 677,009 bytes).
 
 ---
 
